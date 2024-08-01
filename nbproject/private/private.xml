@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/car9/resources/views/auto_edit%20.blade_.php</file>
+            <file>file:/C:/car9/routes/web.php</file>
+            <file>file:/C:/car9/resources/views/auto.blade.php</file>
+            <file>file:/C:/car9/resources/views/rent_create.blade.php</file>
+            <file>file:/C:/car9/app/Http/Controllers/Auto1Contrller.php</file>
+            <file>file:/C:/car9/resources/views/client_edit.blade.php</file>
+            <file>file:/C:/car9/resources/views/client_create.blade.php</file>
+            <file>file:/C:/car9/app/Models/Auto.php</file>
+            <file>file:/C:/car9/app/Models/User.php</file>
+            <file>file:/C:/car9/app/Http/Controllers/Controller.php</file>
+            <file>file:/C:/car9/.env</file>
+            <file>file:/C:/car9/resources/views/auto_create.blade.php</file>
+            <file>file:/C:/car9/resources/views/rents.blade.php</file>
+            <file>file:/C:/car9/resources/views/welcome.blade.php</file>
+            <file>file:/C:/car9/app/Http/Controllers/RentController.php</file>
+            <file>file:/C:/car9/app/Http/Controllers/KlijentController.php</file>
+            <file>file:/C:/car9/resources/views/client_show.blade.php</file>
+            <file>file:/C:/car9/database/migrations/2024_07_18_123829_create_rents_table.php</file>
+            <file>file:/C:/car9/app/Models/Klijent.php</file>
+            <file>file:/C:/car9/resources/views/clients.blade.php</file>
+            <file>file:/C:/car9/app/Http/Controllers/AutoController.php</file>
+            <file>file:/C:/car9/database/migrations/2024_07_18_123727_create_autos_table.php</file>
+            <file>file:/C:/car9/resources/views/auto_show.blade.php</file>
+            <file>file:/C:/car9/app/Models/Rent.php</file>
+            <file>file:/C:/car9/database/migrations/2024_07_18_123755_create_klijents_table.php</file>
+            <file>file:/C:/car9/app/Http/Requests/ProfileUpdateRequest.php</file>
+            <file>file:/C:/car9/resources/views/auto_delete.blade.php</file>
+            <file>file:/C:/car9/resources/views/rent_show.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
