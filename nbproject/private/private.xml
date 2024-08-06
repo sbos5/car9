@@ -7,14 +7,15 @@
             <file>file:/C:/car9/routes/web.php</file>
             <file>file:/C:/car9/resources/views/auto.blade.php</file>
             <file>file:/C:/car9/resources/views/rent_create.blade.php</file>
-            <file>file:/C:/car9/app/Http/Controllers/Auto1Contrller.php</file>
             <file>file:/C:/car9/resources/views/client_edit.blade.php</file>
+            <file>file:/C:/car9/app/Http/Controllers/ProfileController.php</file>
             <file>file:/C:/car9/resources/views/client_create.blade.php</file>
             <file>file:/C:/car9/app/Models/Auto.php</file>
             <file>file:/C:/car9/app/Models/User.php</file>
             <file>file:/C:/car9/app/Http/Controllers/Controller.php</file>
             <file>file:/C:/car9/.env</file>
             <file>file:/C:/car9/resources/views/auto_create.blade.php</file>
+            <file>file:/C:/car9/resources/views/rent_edit.blade.php</file>
             <file>file:/C:/car9/resources/views/rents.blade.php</file>
             <file>file:/C:/car9/resources/views/welcome.blade.php</file>
             <file>file:/C:/car9/app/Http/Controllers/RentController.php</file>
@@ -23,7 +24,6 @@
             <file>file:/C:/car9/database/migrations/2024_07_18_123829_create_rents_table.php</file>
             <file>file:/C:/car9/app/Models/Klijent.php</file>
             <file>file:/C:/car9/resources/views/clients.blade.php</file>
-            <file>file:/C:/car9/app/Http/Controllers/AutoController.php</file>
             <file>file:/C:/car9/database/migrations/2024_07_18_123727_create_autos_table.php</file>
             <file>file:/C:/car9/resources/views/auto_show.blade.php</file>
             <file>file:/C:/car9/app/Models/Rent.php</file>

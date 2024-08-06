@@ -52,8 +52,19 @@ class RentController extends Controller
         return view('/rent_edit', compact('rent' ,'autos' ,"clients"));
     }
      public function update(Request $request ,$id)
-    {
-        $rent=  Rent::find($id);
+     
+    {   
+   dd(  $request->validate([
+    'auto_id' => 'required|nullable',
+    'klijent_id' => 'required|nullable',
+    'data_wyp' => 'nullable|date',
+    'data_zwr' => 'nullable|date',
+    'wyp_dni' => 'nullable|integer',
+]));  
+        // dd($request);
+         $rent=  Rent::find($id);
+        // dd($rent->auto_id);
+         //dd($request->auto_id);
          $rent->auto_id=$request->auto_id;
          $rent->klijent_id=$request->klijent_id;
           $rent->data_wyp=$request->data_wyp;
